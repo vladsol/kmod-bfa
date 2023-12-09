@@ -22,6 +22,5 @@ Version: 3.2.25.1
 
 `dkms add bfa/3.2.25.1`
 
-`dkms build bfa/3.2.25.1`
+`dkms autoinstall`
 
-`dkms install bfa/3.2.25.1`
